@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
