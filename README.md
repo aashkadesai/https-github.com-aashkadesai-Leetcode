@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
