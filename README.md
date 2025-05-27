@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
