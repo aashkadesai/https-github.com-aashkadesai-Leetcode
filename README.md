@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
@@ -45,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
