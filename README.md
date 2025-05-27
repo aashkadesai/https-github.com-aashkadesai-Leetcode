@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
+| [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -142,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
