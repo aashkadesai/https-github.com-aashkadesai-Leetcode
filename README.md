@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
