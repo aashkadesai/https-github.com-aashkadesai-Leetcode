@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
