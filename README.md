@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0744-network-delay-time) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -321,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
