@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
