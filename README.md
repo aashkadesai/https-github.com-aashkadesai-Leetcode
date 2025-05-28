@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1753-path-with-minimum-effort](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
