@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
