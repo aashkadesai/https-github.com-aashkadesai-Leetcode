@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
