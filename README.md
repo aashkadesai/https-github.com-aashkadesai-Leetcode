@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
+| [0880-rectangle-area-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0880-rectangle-area-ii) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -409,4 +410,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0880-rectangle-area-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0880-rectangle-area-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
