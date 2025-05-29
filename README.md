@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0295-find-median-from-data-stream) |
