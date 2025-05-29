@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1752-arithmetic-subarrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1752-arithmetic-subarrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1752-arithmetic-subarrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1752-arithmetic-subarrays) |
 ## Trie
 |  |
 | ------- |
