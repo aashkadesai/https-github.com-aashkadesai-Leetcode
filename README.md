@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
 ## Depth-First Search
 |  |
 | ------- |
