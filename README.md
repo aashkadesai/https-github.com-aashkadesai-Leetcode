@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0344-reverse-string) |
+| [0657-robot-return-to-origin](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -441,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
