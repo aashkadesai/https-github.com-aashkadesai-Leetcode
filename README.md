@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0460-lfu-cache) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
