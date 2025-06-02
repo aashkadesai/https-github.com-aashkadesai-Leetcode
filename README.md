@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
