@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
