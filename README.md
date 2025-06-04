@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1752-arithmetic-subarrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
 | ------- |
