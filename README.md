@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
