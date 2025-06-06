@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0286-walls-and-gates) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0207-course-schedule) |
+| [0286-walls-and-gates](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
