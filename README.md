@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0189-rotate-array) |
 ## Depth-First Search
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Greedy
 |  |
