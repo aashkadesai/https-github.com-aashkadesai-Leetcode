@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0072-edit-distance) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0133-clone-graph) |
