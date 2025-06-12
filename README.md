@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0066-plus-one) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0286-walls-and-gates) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Greedy
