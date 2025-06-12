@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0286-walls-and-gates) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0133-clone-graph) |
