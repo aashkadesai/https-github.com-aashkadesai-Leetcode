@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0136-single-number) |
 ## Recursion
 |  |
 | ------- |
