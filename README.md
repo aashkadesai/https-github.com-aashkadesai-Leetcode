@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
+| [0860-design-circular-queue](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0880-rectangle-area-ii) |
 | [1036-rotting-oranges](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1036-rotting-oranges) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0460-lfu-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0860-design-circular-queue](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0460-lfu-cache) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
+| [0860-design-circular-queue](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
