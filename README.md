@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
 | [1250-longest-common-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3796-longest-common-prefix-after-at-most-one-removal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/3796-longest-common-prefix-after-at-most-one-removal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3796-longest-common-prefix-after-at-most-one-removal](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/3796-longest-common-prefix-after-at-most-one-removal) |
 ## String Matching
 |  |
 | ------- |
