@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0733-flood-fill) |
 | [0860-design-circular-queue](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0860-design-circular-queue) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1752-arithmetic-subarrays](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/aashkadesai/https-github.com-aashkadesai-Leetcode/tree/master/0878-shifting-letters) |
 ## Simulation
 |  |
